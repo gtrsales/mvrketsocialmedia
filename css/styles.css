@@ -3268,8 +3268,8 @@ fieldset:disabled .btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #ffc800;
-  border-color: #ffc800;
+  background-color: #fcbf49;
+  border-color: #fcbf49;
 }
 
 .btn-primary:hover {
@@ -12297,7 +12297,7 @@ p {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #212529;
+  background-color: #003049;
 }
 
 #mainNav .navbar-toggler {
@@ -12317,7 +12317,7 @@ p {
 }
 
 #mainNav .navbar-brand img {
-  height: 1.5rem;
+  height: 2.5rem;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
